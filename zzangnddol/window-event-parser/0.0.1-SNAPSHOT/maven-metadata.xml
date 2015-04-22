@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>com.ybsong.util</groupId>
-  <artifactId>ybsong-hello</artifactId>
+  <groupId>zzangnddol</groupId>
+  <artifactId>window-event-parser</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20130501.185623</timestamp>
+      <timestamp>20150422.072249</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20130501185623</lastUpdated>
+    <lastUpdated>20150422072249</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20130501.185623-1</value>
-        <updated>20130501185623</updated>
+        <value>0.0.1-20150422.072249-1</value>
+        <updated>20150422072249</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20130501.185623-1</value>
-        <updated>20130501185623</updated>
+        <value>0.0.1-20150422.072249-1</value>
+        <updated>20150422072249</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
