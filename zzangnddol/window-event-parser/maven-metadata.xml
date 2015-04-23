@@ -3,10 +3,10 @@
   <groupId>zzangnddol</groupId>
   <artifactId>window-event-parser</artifactId>
   <versioning>
-    <release>0.0.2</release>
+    <release>0.0.3</release>
     <versions>
-      <version>0.0.2</version>
+      <version>0.0.3</version>
     </versions>
-    <lastUpdated>20150423015527</lastUpdated>
+    <lastUpdated>20150423020403</lastUpdated>
   </versioning>
 </metadata>
